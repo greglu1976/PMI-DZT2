@@ -1,0 +1,15 @@
+{
+    "vvod_lvptoc1_strpalc": "РТПО НН1: Ввод",
+    "oper_vyvod_lvptoc1_strpalc": "РТПО НН1: Оперативный вывод",
+    "pusk_lvptoc1_strpalc": "РТПО НН1: Пуск",
+    "io_lvptoc1_strpalc": "РТПО НН1: ИО I",
+    "vvod_lvptoc2_strpalc": "РТПО НН2: Ввод",
+    "oper_vyvod_lvptoc2_strpalc": "РТПО НН2: Оперативный вывод",
+    "pusk_lvptoc2_strpalc": "РТПО НН2: Пуск",
+    "io_lvptoc2_strpalc": "РТПО НН2: ИО I",
+    "pusk_strpalc": "РТПО_общ: Пуск",
+    "vvod_strpalc": "РТПО_общ: Ввод",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "pusk_lvalh": "ПС: Пуск"
+}

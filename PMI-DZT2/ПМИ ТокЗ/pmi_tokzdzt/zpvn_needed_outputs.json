@@ -1,0 +1,12 @@
+{
+    "vvod_hvptoc1_tovctoc": "ЗП ВН: Ввод",
+    "oper_vyvod_hvptoc1_tovctoc": "ЗП ВН: Оперативный вывод",
+    "pusk_hvptoc1_tovctoc": "ЗП ВН: Пуск",
+    "io_hvptoc1_tovctoc": "ЗП ВН: ИО I",
+    "srab_hvptoc1_tovctoc": "ЗП ВН: Срабатывание",
+    "srabotkl_hvptoc1_tovctoc": "ЗП ВН: Сраб. на откл",
+    "srab_tovctoc": "ЗП: Срабатывание",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "pusk_lvalh": "ПС: Пуск"
+}

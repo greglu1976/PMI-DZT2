@@ -1,0 +1,13 @@
+{
+    "vvod_ptrc1_ttrgaslgc": "ЛО ГЗоткл / ЛО: Ввод",
+    "oper_vyvod_ptrc1_ttrgaslgc": "ЛО ГЗоткл / ЛО: Оперативный вывод",
+    "srab_ptrc1_ttrgaslgc": "ЛО ГЗоткл / ЛО: Срабатывание",
+    "srabsign_ptrc1_ttrgaslgc": "ЛО ГЗоткл / ЛО: Срабатывание сигн",
+    "zablok_ptrc1_ttrgaslgc": "ЛО ГЗоткл / ЛО: Заблокировано",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_gz_sign": "СС: ГЗ сигн",
+    "SS_gz_zablok": "СС: ГЗ заблокирована",
+    "SS_gz_nizk_isol": "СС: Низ.изол. ГЗ",
+    "pusk_lvalh": "ПС: Пуск"
+}

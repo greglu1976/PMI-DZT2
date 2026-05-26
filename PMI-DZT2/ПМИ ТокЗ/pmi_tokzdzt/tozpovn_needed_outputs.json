@@ -1,0 +1,11 @@
+{
+    "vvod_hvptoc1_tpalc": "ТО ЗПО ВН: Ввод",
+    "oper_vyvod_hvptoc1_tpalc": "ТО ЗПО ВН: Оперативный вывод",
+    "pusk_hvptoc1_tpalc": "ТО ЗПО ВН: Пуск",
+    "io_hvptoc1_tpalc": "ТО ЗПО ВН: ИО I",
+    "pusk_tpalc": "ТО ЗПО_общ: Пуск",
+    "vvod_tpalc": "ТО ЗПО_общ: Ввод",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "pusk_lvalh": "ПС: Пуск"
+}

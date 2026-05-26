@@ -1,0 +1,13 @@
+{
+    "vvod_oilptrc1_apttechlgc": "ЛО ДТм: Ввод",
+    "oper_vyvod_oilptrc1_apttechlgc": "ЛО ДТм: Оперативный вывод",
+    "srab_oilptrc1_apttechlgc": "ЛО ДТм: Срабатывание",
+    "srabsign_oilptrc1_apttechlgc": "ЛО ДТм: Срабатывание сигн",
+    "zablok_oilptrc1_apttechlgc": "ЛО ДТм: Заблокировано",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_tz_sign": "СС: ТЗ сигн",
+    "SS_tz_nizk_isol": "СС: Низ.изол. ТЗ",
+    "SS_tz_zablok": "СС:ТЗ заблокирована",
+    "pusk_lvalh": "ПС: Пуск"
+}

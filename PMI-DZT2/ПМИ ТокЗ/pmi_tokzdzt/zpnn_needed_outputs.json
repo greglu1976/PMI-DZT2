@@ -1,0 +1,18 @@
+{
+    "vvod_ptoc1_tovctoc": "ЗП НН1: Ввод",
+    "oper_vyvod_ptoc1_tovctoc": "ЗП НН1: Оперативный вывод",
+    "pusk_ptoc1_tovctoc": "ЗП НН1: Пуск",
+    "io_ptoc1_tovctoc": "ЗП НН1: ИО I",
+    "srab_ptoc1_tovctoc": "ЗП НН1: Срабатывание",
+    "srabotkl_ptoc1_tovctoc": "ЗП НН1: Сраб. на откл",
+    "vvod_ptoc2_tovctoc": "ЗП НН2: Ввод",
+    "oper_vyvod_ptoc2_tovctoc": "ЗП НН2: Оперативный вывод",
+    "pusk_ptoc2_tovctoc": "ЗП НН2: Пуск",
+    "io_ptoc2_tovctoc": "ЗП НН2: ИО I",
+    "srab_ptoc2_tovctoc": "ЗП НН2: Срабатывание",
+    "srabotkl_ptoc2_tovctoc": "ЗП НН2: Сраб. на откл",
+    "srab_tovctoc": "ЗП: Срабатывание",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "pusk_lvalh": "ПС: Пуск"
+}

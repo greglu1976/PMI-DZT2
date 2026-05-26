@@ -1,0 +1,12 @@
+{
+    "oper_vyvod_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Оперативный вывод",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "vvod_lvcbptrc1_lvtcboff1": "ЛО НН1 / ЛО: Ввод",
+    "oper_vyvod_lvcbptrc1_lvtcboff1": "ЛО НН1 / ЛО: Оперативный вывод",
+    "otkl_lvcbptrc1_lvtcboff1": "ЛО НН1 / ЛО: Отключение",
+    "otkl_avar_lvcbptrc1_lvtcboff1": "ЛО НН1 / ЛО: Отключить аварийно",
+    "vvod_lvcbrecrbre1_lvtcboff1": "ЛО НН1 /ЗАПВ: Ввод",
+    "oper_vyvod_lvcbrecrbre1_lvtcboff1": "ЛО НН1 /ЗАПВ: Оперативный вывод",
+    "zapret_lvcbrecrbre1_lvtcboff1": "ЛО НН1 /ЗАПВ: Запрет АПВ",
+    "pusk_lvalh": "ПС: Пуск"
+}

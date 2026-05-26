@@ -1,0 +1,10 @@
+{
+    "vvod_prvlvptrc1_almtechlgc": "ЛО ПК: Ввод",
+    "oper_vyvod_prvlvptrc1_almtechlgc": "ЛО ПК: Оперативный вывод",
+    "srab_prvlvptrc1_almtechlgc": "ЛО ПК: Срабатывание",
+    "srabsign_prvlvptrc1_almtechlgc": "ЛО ПК: Срабатывание сигн",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_ts_sign": "СС: ТС сигн",
+    "pusk_lvalh": "ПС: Пуск"
+}

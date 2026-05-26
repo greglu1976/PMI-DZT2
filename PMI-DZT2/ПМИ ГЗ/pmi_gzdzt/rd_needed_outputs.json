@@ -1,0 +1,13 @@
+{
+    "vvod_vlvptrc1_apttechlgc": "ЛО РД: Ввод",
+    "oper_vyvod_vlvptrc1_apttechlgc": "ЛО РД: Оперативный вывод",
+    "srab_vlvptrc1_apttechlgc": "ЛО РД: Срабатывание",
+    "srabsign_vlvptrc1_apttechlgc": "ЛО РД: Срабатывание сигн",
+    "zablok_vlvptrc1_apttechlgc": "ЛО РД: Заблокировано",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_tz_sign": "СС: ТЗ сигн",
+    "SS_tz_nizk_isol": "СС: Низ.изол. ТЗ",
+    "SS_tz_zablok": "СС:ТЗ заблокирована",
+    "pusk_lvalh": "ПС: Пуск"
+}

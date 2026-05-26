@@ -1,0 +1,10 @@
+{
+    "vvod_levptrc1_almtechlgc": "ЛО ДУм расширителя: Ввод",
+    "oper_vyvod_levptrc1_almtechlgc": "ЛО ДУм расширителя: Оперативный вывод",
+    "srab_levptrc1_almtechlgc": "ЛО ДУм расширителя: Срабатывание",
+    "srabsign_levptrc1_almtechlgc": "ЛО ДУм расширителя: Срабатывание сигн",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_ts_sign": "СС: ТС сигн",
+    "pusk_lvalh": "ПС: Пуск"
+}

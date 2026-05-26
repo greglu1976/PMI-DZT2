@@ -1,0 +1,13 @@
+{
+    "vvod_winptrc1_apttechlgc": "ЛО ДТо: Ввод",
+    "oper_vyvod_winptrc1_apttechlgc": "ЛО ДТо: Оперативный вывод",
+    "srab_winptrc1_apttechlgc": "ЛО ДТо: Срабатывание",
+    "srabsign_winptrc1_apttechlgc": "ЛО ДТо: Срабатывание сигн",
+    "zablok_winptrc1_apttechlgc": "ЛО ДТо: Заблокировано",
+    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
+    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "SS_tz_sign": "СС: ТЗ сигн",
+    "SS_tz_nizk_isol": "СС: Низ.изол. ТЗ",
+    "SS_tz_zablok": "СС:ТЗ заблокирована",
+    "pusk_lvalh": "ПС: Пуск"
+}
