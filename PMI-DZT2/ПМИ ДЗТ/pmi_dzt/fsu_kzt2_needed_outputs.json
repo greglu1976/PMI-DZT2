@@ -1,0 +1,18 @@
+{
+    "vvod_rctr2_ctr": "КЦТст2: Ввод",
+    "oper_vyvod_rctr2_ctr": "КЦТст2: Оперативный вывод",
+    "pusk_obryv_rctr2_ctr": "КЦТст2: Пуск обрыв",
+    "srab_obryv_rctr2_ctr": "КЦТст2: Срабатывание обрыв",
+    "pusk_assym_rctr2_ctr": "КЦТст2: Пуск ассиметрия",
+    "srab_assym_rctr2_ctr": "КЦТст2: Сраб. ассиметрия",
+    "vvod_rctr3_ctr": "КЦТст3: Ввод",
+    "oper_vyvod_rctr3_ctr": "КЦТст3: Оперативный вывод",
+    "pusk_obryv_rctr3_ctr": "КЦТст3: Пуск обрыв",
+    "srab_obryv_rctr3_ctr": "КЦТст3: Срабатывание обрыв",
+    "pusk_assym_rctr3_ctr": "КЦТст3: Пуск ассиметрия",
+    "srab_assym_rctr3_ctr": "КЦТст3: Сраб. ассиметрия",
+    "srab_ctr": "КЦТ: Срабатывание",
+    "srab_rctr1_tdif": "КЦТнеб: Срабатывание",
+    "neispr_rctr1_tdif": "КЦТнеб: Неисправность",
+    "pusk_lvalh": "ПС: Пуск"
+}
