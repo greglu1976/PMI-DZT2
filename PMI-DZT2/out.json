@@ -1,0 +1,24 @@
+[
+    {
+        "name": "SignContact",
+        "address": 6112,
+        "type": 3,
+        "readonly": true,
+        "command": false,
+        "size": 1,
+        "units": "",
+        "description": "Срабатывание сигнального контакта газового реле",
+        "fullDescription": "Срабатывание сигнального контакта газового реле",
+        "note": "",
+        "minValue": null,
+        "maxValue": null,
+        "group": "measurement",
+        "step": null,
+        "multiplier": "",
+        "transformationCoefficient": 0,
+        "defaultValue": "0",
+        "eventRegistration": 0,
+        "operativeEventRegistration": false,
+        "appliedDescription": "Сигн.конт.газ.реле"
+    }
+]
