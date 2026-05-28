@@ -3215,20 +3215,20 @@
     {
       "ParameterName": "TDIF_1_PDIF1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF2_FuncEnabled",
-      "NeedWriteToOscillogram": false,
+      "NeedWriteToOscillogram": true,
       "RegistrationCondition": 3,
-      "StartOscillographyCondition": 0
+      "StartOscillographyCondition": 3
     },
     {
       "ParameterName": "TDIF_1_PDIF2_FuncOperDisabled",
@@ -3274,9 +3274,9 @@
     },
     {
       "ParameterName": "TDIF_1_PDIF2_Str",
-      "NeedWriteToOscillogram": false,
+      "NeedWriteToOscillogram": true,
       "RegistrationCondition": 3,
-      "StartOscillographyCondition": 0
+      "StartOscillographyCondition": 3
     },
     {
       "ParameterName": "TDIF_1_PDIF2_OpPhAOnSignal",
@@ -3329,13 +3329,13 @@
     {
       "ParameterName": "TDIF_1_PDIF2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3365,13 +3365,13 @@
     {
       "ParameterName": "TDIF_1_HF2PHAR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_HF2PHAR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3401,13 +3401,13 @@
     {
       "ParameterName": "TDIF_1_HF5PHAR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_HF5PHAR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3437,13 +3437,13 @@
     {
       "ParameterName": "TDIF_1_BLKRCTR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_BLKRCTR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3491,13 +3491,13 @@
     {
       "ParameterName": "TDIF_1_RCTR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_RCTR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3509,49 +3509,49 @@
     {
       "ParameterName": "TDIF_1_PDIF1_DifAClcPhA",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_DifAClcPhB",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_DifAClcPhC",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_RstAphA",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_RstAphB",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_PDIF1_RstAphC",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TDIF_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3593,13 +3593,13 @@
     {
       "ParameterName": "CTR_UIRZ_1_RCTR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3641,13 +3641,13 @@
     {
       "ParameterName": "CTR_UIRZ_1_RCTR2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3689,13 +3689,13 @@
     {
       "ParameterName": "CTR_UIRZ_1_RCTR3_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR3_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3737,13 +3737,13 @@
     {
       "ParameterName": "CTR_UIRZ_1_RCTR4_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR4_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3785,13 +3785,13 @@
     {
       "ParameterName": "CTR_UIRZ_1_RCTR5_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR5_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3803,25 +3803,25 @@
     {
       "ParameterName": "CTR_UIRZ_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "CTR_UIRZ_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVARCTOC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVARCTOC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3851,13 +3851,13 @@
     {
       "ParameterName": "LVARCTOC_1_PTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVARCTOC_1_PTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3887,13 +3887,13 @@
     {
       "ParameterName": "STRTPALC_1_HVPTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_HVPTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3923,13 +3923,13 @@
     {
       "ParameterName": "STRTPALC_1_LVPTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_LVPTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3959,13 +3959,13 @@
     {
       "ParameterName": "STRTPALC_1_LVPTOC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_LVPTOC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -3983,37 +3983,37 @@
     {
       "ParameterName": "STRTPALC_1_PTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_PTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "STRTPALC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "EQPALC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "EQPALC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4049,13 +4049,13 @@
     {
       "ParameterName": "EQPALC_1_PALC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "EQPALC_1_PALC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4085,13 +4085,13 @@
     {
       "ParameterName": "TPALC_1_HVPTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_HVPTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4121,13 +4121,13 @@
     {
       "ParameterName": "TPALC_1_LVPTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_LVPTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4157,13 +4157,13 @@
     {
       "ParameterName": "TPALC_1_LVPTOC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_LVPTOC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4181,25 +4181,25 @@
     {
       "ParameterName": "TPALC_1_PTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_PTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPALC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4241,13 +4241,13 @@
     {
       "ParameterName": "TOVCTOC_1_HVPTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TOVCTOC_1_HVPTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4289,13 +4289,13 @@
     {
       "ParameterName": "TOVCTOC_1_PTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TOVCTOC_1_PTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4337,25 +4337,25 @@
     {
       "ParameterName": "TOVCTOC_1_PTOC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TOVCTOC_1_PTOC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TOVCTOC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TOVCTOC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4367,13 +4367,13 @@
     {
       "ParameterName": "LTCBLKTOC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LTCBLKTOC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4403,13 +4403,13 @@
     {
       "ParameterName": "LTCBLKTOC_1_PTOC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LTCBLKTOC_1_PTOC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4445,25 +4445,25 @@
     {
       "ParameterName": "TALMGASLGC_1_PTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TALMGASLGC_1_PTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TALMGASLGC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TALMGASLGC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4499,25 +4499,25 @@
     {
       "ParameterName": "TTRGASLGC_1_PTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TTRGASLGC_1_PTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TTRGASLGC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TTRGASLGC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4553,25 +4553,25 @@
     {
       "ParameterName": "TLTCGASLGC_1_PTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TLTCGASLGC_1_PTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TLTCGASLGC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TLTCGASLGC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4607,13 +4607,13 @@
     {
       "ParameterName": "APTTECHLGC_1_OILPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "APTTECHLGC_1_OILPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4649,13 +4649,13 @@
     {
       "ParameterName": "APTTECHLGC_1_WINPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "APTTECHLGC_1_WINPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4691,25 +4691,25 @@
     {
       "ParameterName": "APTTECHLGC_1_VLVPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "APTTECHLGC_1_VLVPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "APTTECHLGC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "APTTECHLGC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4751,25 +4751,25 @@
     {
       "ParameterName": "DZT2_TPBRF_1_GENRBRF1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_TPBRF_1_GENRBRF1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_TPBRF_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_TPBRF_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4793,13 +4793,13 @@
     {
       "ParameterName": "TPRMOFFLVLGC_1_PTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPRMOFFLVLGC_1_PTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4823,25 +4823,25 @@
     {
       "ParameterName": "TPRMOFFLVLGC_1_RBRE1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPRMOFFLVLGC_1_RBRE1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPRMOFFLVLGC_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "TPRMOFFLVLGC_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4871,25 +4871,25 @@
     {
       "ParameterName": "HVTCBOFF_1_HVCBPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "HVTCBOFF_1_HVCBPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "HVTCBOFF_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "HVTCBOFF_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4919,13 +4919,13 @@
     {
       "ParameterName": "LVTPRMCBOFF1_1_LVCBPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF1_1_LVCBPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4949,25 +4949,25 @@
     {
       "ParameterName": "LVTPRMCBOFF1_1_LVCBRECRBRE1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF1_1_LVCBRECRBRE1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF1_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF1_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -4997,13 +4997,13 @@
     {
       "ParameterName": "LVTPRMCBOFF2_1_LVCBPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF2_1_LVCBPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5027,25 +5027,25 @@
     {
       "ParameterName": "LVTPRMCBOFF2_1_LVCBRECRBRE1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF2_1_LVCBRECRBRE1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF2_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "LVTPRMCBOFF2_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5075,13 +5075,13 @@
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_PRVLVPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_PRVLVPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5111,13 +5111,13 @@
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_SHVLVPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_SHVLVPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5147,25 +5147,25 @@
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_LEVPTRC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_LEVPTRC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "ALMTECHLGC_UIRZ_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5201,13 +5201,13 @@
     {
       "ParameterName": "DZT2_IO_1_OILSTMP1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_OILSTMP1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5231,13 +5231,13 @@
     {
       "ParameterName": "DZT2_IO_1_WINSTMP1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_WINSTMP1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5255,13 +5255,13 @@
     {
       "ParameterName": "DZT2_IO_1_SIML1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_SIML1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5291,13 +5291,13 @@
     {
       "ParameterName": "DZT2_IO_1_PTRSIML1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_PTRSIML1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5315,13 +5315,13 @@
     {
       "ParameterName": "DZT2_IO_1_LTCSIML1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_LTCSIML1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5339,13 +5339,13 @@
     {
       "ParameterName": "DZT2_IO_1_OILSIML1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_OILSIML1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5363,13 +5363,13 @@
     {
       "ParameterName": "DZT2_IO_1_LTCOILSIML1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_LTCOILSIML1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5381,13 +5381,13 @@
     {
       "ParameterName": "DZT2_IO_1_PRVKVLV1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_PRVKVLV1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5399,13 +5399,13 @@
     {
       "ParameterName": "DZT2_IO_1_SHVKVLV1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_SHVKVLV1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5423,13 +5423,13 @@
     {
       "ParameterName": "DZT2_IO_1_SCSSALC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_SCSSALC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5441,25 +5441,25 @@
     {
       "ParameterName": "DZT2_IO_1_STMP1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_STMP1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_IO_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5489,13 +5489,13 @@
     {
       "ParameterName": "DZT2_PNL_1_IDOR1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_IDOR1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5507,13 +5507,13 @@
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5525,13 +5525,13 @@
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5543,13 +5543,13 @@
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC3_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC3_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5561,13 +5561,13 @@
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC4_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_SELSWISOCC4_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5579,13 +5579,13 @@
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5597,13 +5597,13 @@
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5615,13 +5615,13 @@
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC3_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_PLGSOCC3_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5633,13 +5633,13 @@
     {
       "ParameterName": "DZT2_PNL_1_AUXGASSOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_AUXGASSOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5651,13 +5651,13 @@
     {
       "ParameterName": "DZT2_PNL_1_AUXTECSOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_AUXTECSOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5669,13 +5669,13 @@
     {
       "ParameterName": "DZT2_PNL_1_ARCSOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_ARCSOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5687,13 +5687,13 @@
     {
       "ParameterName": "DZT2_PNL_1_BRFSOCC1_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_BRFSOCC1_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5705,13 +5705,13 @@
     {
       "ParameterName": "DZT2_PNL_1_ARCSOCC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_ARCSOCC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -5723,25 +5723,25 @@
     {
       "ParameterName": "DZT2_PNL_1_BRFSOCC2_Beh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_BRFSOCC2_Health",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_LDBeh",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "DZT2_PNL_1_LDHealth",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -7007,19 +7007,19 @@
     {
       "ParameterName": "Supervision_M1_PowerSupply_Uinput_Positive",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "Supervision_M1_PowerSupply_Uinput_Negative",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "Supervision_M1_PowerSupply_Uoutput12V",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -7091,7 +7091,7 @@
     {
       "ParameterName": "Diagnostics_M1_PowerSupply_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -7145,7 +7145,7 @@
     {
       "ParameterName": "Diagnostics_M3_DO_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -7469,7 +7469,7 @@
     {
       "ParameterName": "Diagnostics_M4_DO_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -7793,7 +7793,7 @@
     {
       "ParameterName": "Diagnostics_M5_DO_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -8117,7 +8117,7 @@
     {
       "ParameterName": "Diagnostics_M6_DO_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -8441,7 +8441,7 @@
     {
       "ParameterName": "Diagnostics_M7_DO_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -8765,7 +8765,7 @@
     {
       "ParameterName": "Diagnostics_M8_DI_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -9221,7 +9221,7 @@
     {
       "ParameterName": "Diagnostics_M9_DI_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -9677,7 +9677,7 @@
     {
       "ParameterName": "Diagnostics_M10_DI_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -10133,7 +10133,7 @@
     {
       "ParameterName": "Diagnostics_M11_DI_WordStatus",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
@@ -11831,13 +11831,13 @@
     {
       "ParameterName": "Diagnostics_M14_CPU_Eth1ReceiveMessageCnt",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
       "ParameterName": "Diagnostics_M14_CPU_Eth1TransmittedMessageCnt",
       "NeedWriteToOscillogram": false,
-      "RegistrationCondition": 3,
+      "RegistrationCondition": 0,
       "StartOscillographyCondition": 0
     },
     {
