@@ -20,7 +20,7 @@ pmi = PMI(config_handler)
 ################################################################################
 # 1 Поиск папок с режимами
 
-path_to_modes_xlsx = "C:/Users/g.lubov.UNI-ENG/Desktop/М300-Т2/PMI-T2/ПМИ ИЧМ"
+path_to_modes_xlsx = "C:/Users/g.lubov.UNI-ENG/Desktop/М300-ДЗТ2/PMI-DZT2/ПМИ ДЗТ/pmi_dzt"
 # 1. Находим все папки
 modes_folders = [
     folder for folder in Path(path_to_modes_xlsx).iterdir()
