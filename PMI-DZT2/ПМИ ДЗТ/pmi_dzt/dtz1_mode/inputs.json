@@ -1,8 +1,8 @@
 {
-    "VYVOD": "Вывод терминала",
-    "OV_tdif": "ОВ ДЗТ",
-    "OV_pdif1_tdif": "ОВ ДТЗт",
-    "NaSign_pdif1_tdif": "ДТЗт на сигн",
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_TDIF": "ОВ ДЗТ",
+    "DI_RESPDIF": "ОВ ДТЗт",
+    "DI_RESPDIF_Sign": "ДТЗт на сигн",
     "IA": "IA",
     "dIA": "∠  IA",
     "IB": "IB",
