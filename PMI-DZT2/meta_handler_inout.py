@@ -13,7 +13,7 @@ config_handler = MainConfigHandler.from_json_file(meta_path)
 #t = config_handler.get_param_info("T_LVCBSUP_1_RCBF1_FuncEnabled")
 #print(t) lvrbvtr1
 
-pars = config_handler.find_parameters_starting_with("DZT2")
+pars = config_handler.find_parameters_starting_with("")
 
 result = []
 for par in pars:
@@ -30,4 +30,4 @@ with open("out.json", "w", encoding="utf-8") as f:
 
 
 i = config_handler.get_param_info("DZT2_IO_1_VLVIsolOp")
-print(i)
+#print(i)
