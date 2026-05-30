@@ -10,7 +10,9 @@
     },
     {
       "ParameterName": "DI_TDIF",
-      "DiscreteInputs": [],
+      "DiscreteInputs": [
+        "8B1"
+      ],
       "DigitalInputs": [],
       "OutputRelays": []
     },
@@ -40,20 +42,6 @@
     },
     {
       "ParameterName": "DI_ATDIFRCTR",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "DI_CTR_UIRZ",
-      "DiscreteInputs": [
-        "8B1"
-      ],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "DI_CTR_RCTR1",
       "DiscreteInputs": [
         "8B2"
       ],
@@ -61,18 +49,26 @@
       "OutputRelays": []
     },
     {
+      "ParameterName": "DI_CTR_UIRZ",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_CTR_RCTR1",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
       "ParameterName": "DI_CTR_RCTR2",
-      "DiscreteInputs": [
-        "8B3"
-      ],
+      "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": []
     },
     {
       "ParameterName": "DI_CTR_RCTR3",
-      "DiscreteInputs": [
-        "8B4"
-      ],
+      "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": []
     },
@@ -128,9 +124,7 @@
       "ParameterName": "TDIF_1_PDIF1_Str",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K7"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "TDIF_1_PDIF1_OpPhAOnSignal",
@@ -178,9 +172,7 @@
       "ParameterName": "TDIF_1_PDIF1_Op",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K8"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "TDIF_1_PDIF2_FuncEnabled",
@@ -306,7 +298,9 @@
       "ParameterName": "TDIF_1_HF2PHAR1_Str2H",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K1"
+      ]
     },
     {
       "ParameterName": "TDIF_1_HF5PHAR1_Str5HIa",
@@ -330,7 +324,9 @@
       "ParameterName": "TDIF_1_HF5PHAR1_Str5H",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K2"
+      ]
     },
     {
       "ParameterName": "TDIF_1_BLKRCTR1_OpA",
@@ -360,43 +356,57 @@
       "ParameterName": "TDIF_1_RCTR1_FuncEnabled",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K3"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_FuncOperDisabled",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K4"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircAlmPhA",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K5"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircAlmPhB",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K6"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircAlmPhC",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K7"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircAlm",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "3K8"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircFltGen",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "4K1"
+      ]
     },
     {
       "ParameterName": "TDIF_1_TDIF_Op",
@@ -426,9 +436,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR1_OpBrkCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K1"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR1_StrAsymCF",
@@ -440,9 +448,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR1_OpAsymCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K2"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR2_FuncEnabled",
@@ -466,9 +472,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR2_OpBrkCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K3"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR2_StrAsymCF",
@@ -480,9 +484,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR2_OpAsymCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K4"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR3_FuncEnabled",
@@ -506,9 +508,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR3_OpBrkCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K5"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_RCTR3_StrAsymCF",
@@ -520,9 +520,7 @@
       "ParameterName": "CTR_UIRZ_1_RCTR3_OpAsymCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": [
-        "3K6"
-      ]
+      "OutputRelays": []
     },
     {
       "ParameterName": "CTR_UIRZ_1_CTR_UIRZ_CurCircFlt",
@@ -547,7 +545,7 @@
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
-        "4K1"
+        "4K2"
       ]
     }
   ]

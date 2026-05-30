@@ -1,0 +1,12 @@
+{
+    "TDIF_1_HF2PHAR1_Str2H": "Д2Г: Пуск",
+    "TDIF_1_HF5PHAR1_Str5H": "Д5Г: Пуск",
+    "TDIF_1_RCTR1_FuncEnabled": "КЦТнеб: Ввод",
+    "TDIF_1_RCTR1_FuncOperDisabled": "КЦТнеб: Оперативный вывод",
+    "TDIF_1_RCTR1_CurCircAlmPhA": "КЦТнеб: Срабатывание ф.А",
+    "TDIF_1_RCTR1_CurCircAlmPhB": "КЦТнеб: Срабатывание ф.В",
+    "TDIF_1_RCTR1_CurCircAlmPhC": "КЦТнеб: Срабатывание ф.С",
+    "TDIF_1_RCTR1_CurCircAlm": "КЦТнеб: Срабатывание",
+    "TDIF_1_RCTR1_CurCircFltGen": "КЦТнеб: Неисправность",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}
