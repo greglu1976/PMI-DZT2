@@ -13,7 +13,7 @@ config_handler = MainConfigHandler.from_json_file(meta_path)
 #t = config_handler.get_param_info("T_LVCBSUP_1_RCBF1_FuncEnabled")
 #print(t) lvrbvtr1
 
-pars = config_handler.find_parameters_starting_with("КЦТ")
+pars = config_handler.find_parameters_starting_with("DI_")
 
 result = []
 for par in pars:

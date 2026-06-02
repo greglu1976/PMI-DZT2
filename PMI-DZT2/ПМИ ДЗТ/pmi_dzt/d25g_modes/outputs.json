@@ -1,0 +1,12 @@
+{
+    "TDIF_1_PDIF1_FuncEnabled": "ДТЗт: Ввод",
+    "TDIF_1_PDIF1_Op": "ДТЗт: Срабатывание",
+    "TDIF_1_HF2PHAR1_Str2HIa": "Д2Г: Пуск ф.А",
+    "TDIF_1_HF2PHAR1_Str2HIb": "Д2Г: Пуск ф.В",
+    "TDIF_1_HF2PHAR1_Str2HIc": "Д2Г: Пуск ф.С",
+    "TDIF_1_HF2PHAR1_Str2H": "Д2Г: Пуск",
+    "TDIF_1_HF5PHAR1_Str5HIa": "Д5Г: Пуск ф.А",
+    "TDIF_1_HF5PHAR1_Str5HIb": "Д5Г: Пуск ф.B",
+    "TDIF_1_HF5PHAR1_Str5HIc": "Д5Г: Пуск ф.C",
+    "TDIF_1_HF5PHAR1_Str5H": "Д5Г: Пуск"
+}
