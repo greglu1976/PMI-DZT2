@@ -1,0 +1,18 @@
+{
+    "CTR_UIRZ_1_RCTR2_FuncEnabled": "КЦТст2: Ввод",
+    "CTR_UIRZ_1_RCTR2_FuncOperDisabled": "КЦТст2: Оперативный вывод",
+    "CTR_UIRZ_1_RCTR2_StrBrkCF": "КЦТст2: Пуск обрыв",
+    "CTR_UIRZ_1_RCTR2_OpBrkCF": "КЦТст2: Срабатывание обрыв",
+    "CTR_UIRZ_1_RCTR2_StrAsymCF": "КЦТст2: Пуск ассиметрия",
+    "CTR_UIRZ_1_RCTR2_OpAsymCF": "КЦТст2: Сраб. ассиметрия",
+    "CTR_UIRZ_1_RCTR3_FuncEnabled": "КЦТст3: Ввод",
+    "CTR_UIRZ_1_RCTR3_FuncOperDisabled": "КЦТст3: Оперативный вывод",
+    "CTR_UIRZ_1_RCTR3_StrBrkCF": "КЦТст3: Пуск обрыв",
+    "CTR_UIRZ_1_RCTR3_OpBrkCF": "КЦТст3: Срабатывание обрыв",
+    "CTR_UIRZ_1_RCTR3_StrAsymCF": "КЦТст3: Пуск ассиметрия",
+    "CTR_UIRZ_1_RCTR3_OpAsymCF": "КЦТст3: Сраб. ассиметрия",
+    "CTR_UIRZ_1_CTR_UIRZ_CurCircFlt": "КЦТ: Срабатывание",
+    "TDIF_1_RCTR1_CurCircAlm": "КЦТнеб: Срабатывание",
+    "TDIF_1_RCTR1_CurCircFltGen": "КЦТнеб: Неисправность",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}

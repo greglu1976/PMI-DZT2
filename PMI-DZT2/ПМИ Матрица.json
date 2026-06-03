@@ -64,13 +64,17 @@
     },
     {
       "ParameterName": "DI_CTR_RCTR2",
-      "DiscreteInputs": [],
+      "DiscreteInputs": [
+        "8B4"
+      ],
       "DigitalInputs": [],
       "OutputRelays": []
     },
     {
       "ParameterName": "DI_CTR_RCTR3",
-      "DiscreteInputs": [],
+      "DiscreteInputs": [
+        "8B5"
+      ],
       "DigitalInputs": [],
       "OutputRelays": []
     },
@@ -384,14 +388,16 @@
       "ParameterName": "TDIF_1_RCTR1_CurCircAlm",
       "DiscreteInputs": [],
       "DigitalInputs": [],
-      "OutputRelays": []
+      "OutputRelays": [
+        "4K5"
+      ]
     },
     {
       "ParameterName": "TDIF_1_RCTR1_CurCircFltGen",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
-        "3K8"
+        "4K6"
       ]
     },
     {
@@ -404,12 +410,48 @@
       "ParameterName": "CTR_UIRZ_1_RCTR1_FuncEnabled",
       "DiscreteInputs": [],
       "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR1_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR1_StrBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR1_OpBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR1_StrAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR1_OpAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
       "OutputRelays": [
         "3K1"
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR1_FuncOperDisabled",
+      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncOperDisabled",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
@@ -417,7 +459,7 @@
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR1_StrBrkCF",
+      "ParameterName": "CTR_UIRZ_1_RCTR2_StrBrkCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
@@ -425,7 +467,7 @@
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR1_OpBrkCF",
+      "ParameterName": "CTR_UIRZ_1_RCTR2_OpBrkCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
@@ -433,7 +475,7 @@
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR1_StrAsymCF",
+      "ParameterName": "CTR_UIRZ_1_RCTR2_StrAsymCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
@@ -441,7 +483,7 @@
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR1_OpAsymCF",
+      "ParameterName": "CTR_UIRZ_1_RCTR2_OpAsymCF",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
@@ -449,84 +491,58 @@
       ]
     },
     {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncEnabled",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncOperDisabled",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_StrBrkCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_OpBrkCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_StrAsymCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR2_OpAsymCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
       "ParameterName": "CTR_UIRZ_1_RCTR3_FuncEnabled",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR3_FuncOperDisabled",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR3_StrBrkCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR3_OpBrkCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR3_StrAsymCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_RCTR3_OpAsymCF",
-      "DiscreteInputs": [],
-      "DigitalInputs": [],
-      "OutputRelays": []
-    },
-    {
-      "ParameterName": "CTR_UIRZ_1_CTR_UIRZ_CurCircFlt",
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
         "3K7"
       ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K8"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_StrBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K1"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_OpBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K2"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_StrAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K3"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_OpAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K4"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_CTR_UIRZ_CurCircFlt",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": []
     },
     {
       "ParameterName": "TPRMOFFLVLGC_1_PTRC1_Op",
@@ -545,7 +561,7 @@
       "DiscreteInputs": [],
       "DigitalInputs": [],
       "OutputRelays": [
-        "4K1"
+        "4K7"
       ]
     }
   ]
