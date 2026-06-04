@@ -1,0 +1,182 @@
+{
+  "Version": "1.0.0.0",
+  "DeviceModel": "ЮНИТ-М319-ДЗТ2-Р02с-х-К002-К002-К002-К002-К002-В021-В021-В021-В021-М090.9000-х-С01.00-1-1-ЮНИТ-ИЧМ-КУГР-х-х-х-х-1",
+  "SignalMappings": [
+    {
+      "ParameterName": "OpExtOfCoolSys",
+      "DiscreteInputs": [
+        "8B6"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_ControllerDisable",
+      "DiscreteInputs": [
+        "8B1"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_CTR_UIRZ",
+      "DiscreteInputs": [
+        "8B2"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_CTR_RCTR1",
+      "DiscreteInputs": [
+        "8B3"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_CTR_RCTR2",
+      "DiscreteInputs": [
+        "8B4"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_CTR_RCTR3",
+      "DiscreteInputs": [
+        "8B5"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "TDIF_1_RCTR1_CurCircAlm",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K6"
+      ]
+    },
+    {
+      "ParameterName": "TDIF_1_RCTR1_CurCircFltGen",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K7"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K1"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K2"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_StrBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K3"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_OpBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K4"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_StrAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K5"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR2_OpAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K6"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K7"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K8"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_StrBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K1"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_OpBrkCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K2"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_StrAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K3"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_RCTR3_OpAsymCF",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K4"
+      ]
+    },
+    {
+      "ParameterName": "CTR_UIRZ_1_CTR_UIRZ_CurCircFlt",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K5"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_LVALH_1_CALH1_Alarm",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K8"
+      ]
+    }
+  ]
+}

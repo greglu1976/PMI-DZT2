@@ -1,0 +1,12 @@
+{
+    "VYVOD": "Вывод терминала",
+    "OV_tprmofflvlgc": "ОВ ЛО Т",
+    "OV_ptrc1_tprmofflvlgc": "ОВ ЛО Т / ЛО",
+    "OV_rbre1_tprmofflvlgc": "ОВ ЛО Т / ЗАПВ",
+    "OV_hvcbptrc1_hvtcboff": "ОВ ЛО ВН",
+    "vnesh_otkl_ot_so": "Внешнее отключение от СО",    
+    "vnesh_otkl_zdz1": "Внешнее отключение от ЗДЗ НН1",
+    "vnesh_otkl_zdz2": "Внешнее отключение от ЗДЗ НН2",
+    "vnesh_otkl_urov1": "Внешнее отключение от УРОВ НН1",
+    "vnesh_otkl_urov2": "Внешнее отключение от УРОВ НН2"
+}
