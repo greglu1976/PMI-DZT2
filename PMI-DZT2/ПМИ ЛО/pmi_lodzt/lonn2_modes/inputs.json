@@ -1,0 +1,8 @@
+{
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_LVTPRMCBOFF2": "ОВ ЛО НН2",
+    "DI_LVCBPTRC2": "ОВ ЛО НН2 / ЛО",
+    "DI_LVCBRECRBRE2": "ОВ ЛО НН2 / ЗАПВ", 
+    "DI_JNTRBRE": "ОВ ЛО Т / ЗАПВ",  
+    "OpExtOfCoolSys": "Внешнее отключение от СО"
+}
