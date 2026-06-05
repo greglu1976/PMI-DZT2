@@ -1,10 +1,10 @@
 {
-    "SS_vyh_zepi_razobr": "СС: Вых.цепи разобраны",
-    "SS_bi_vyved": "СС: БИ выведены",
-    "SS_ot_sign": "СС: ОТ сигн",
-    "SS_neispr_ot_gz": "СС: Неисп. ОТ ГЗ",
-    "SS_neispr_ot_tz": "СС: Неисп. ОТ ТЗ,ТС",
-    "SS_ot_nn_sign": "СС: ОТ НН сигн",
-    "SS_obsh_vnesh_sign": "СС: Общ. внеш. сигнал",
-    "pusk_lvalh": "ПС: Пуск"
+    "DZT2_SignAssembly_1_CtlCir": "СС: Вых.цепи разобраны",
+    "DZT2_SignAssembly_1_TestBlock": "СС: БИ выведены",
+    "DZT2_SignAssembly_1_OCSign": "СС: ОТ сигн",
+    "DZT2_SignAssembly_1_GAS_OCControlSignAssem": "СС: Неисп. ОТ ГЗ",
+    "DZT2_SignAssembly_1_TECH_OCControlSignAssem": "СС: Неисп. ОТ ТЗ,ТС",
+    "DZT2_SignAssembly_1_OCnnSign": "СС: ОТ НН сигн",
+    "DZT2_SignAssembly_1_ExtSignGen": "СС: Общ. внеш. сигнал",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
 }

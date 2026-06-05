@@ -1,0 +1,13 @@
+{
+    "TPRMOFFLVLGC_1_PTRC1_FuncEnabled": "ЛО Т / ЛО: Ввод",
+    "TPRMOFFLVLGC_1_PTRC1_FuncOperDisabled": "ЛО Т / ЛО: Оперативный вывод",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_FuncEnabled": "ЛО Т / ЗАПВ: Ввод",
+    "TPRMOFFLVLGC_1_RBRE1_FuncOperDisabled": "ЛО Т / ЗАПВ: Оперативный вывод",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "HVTCBOFF_1_HVCBPTRC1_FuncEnabled": "ЛО ВН / ЛО: Ввод",
+    "HVTCBOFF_1_HVCBPTRC1_FuncOperDisabled": "ЛО ВН / ЛО: Оперативный вывод",
+    "HVTCBOFF_1_HVCBPTRC1_Op": "ЛО ВН / ЛО: Отключение",
+    "HVTCBOFF_1_HVCBPTRC1_Tr": "ЛО ВН / ЛО: Отключить аварийно",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}

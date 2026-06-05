@@ -1,0 +1,12 @@
+{
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_TPRMOFFLVLGC": "ОВ ЛО Т",
+    "DI_TJNTPTRC": "ОВ ЛО Т / ЛО",
+    "DI_JNTRBRE": "ОВ ЛО Т / ЗАПВ",
+    "DI_HVTCBOFF": "ОВ ЛО ВН",
+    "OpExtOfCoolSys": "Внешнее отключение от СО",    
+    "OpExtOfARC_NN1": "Внешнее отключение от ЗДЗ НН1",
+    "OpExtOfARC_NN2": "Внешнее отключение от ЗДЗ НН2",
+    "OpExtOfCBFP_NN1": "Внешнее отключение от УРОВ НН1",
+    "OpExtOfCBFP_NN2": "Внешнее отключение от УРОВ НН2"
+}

@@ -1,0 +1,16 @@
+{
+    "DI_ControllerDisable": "Вывод терминала",
+    "CtlCirSwPos1": "Положение SA1",
+    "CtlCirSwPos2": "Положение SA2",
+    "CtlCirSwPos3": "Положение SA3",
+    "CtlCirSwPos4": "Положение SA4",
+    "TestBlockPos1": "Положение SG1",
+    "TestBlockPos2": "Положение SG2",
+    "TestBlockPos3": "Положение SG3",
+    "GAS_OCControl": "ОТ цепей ГЗ",
+    "TECH_OCControl": "ОТ цепей ТЗ ТС",
+    "ARCnn1_OCControl": "ОТ цепей ЗДЗ НН1",
+    "ARCnn2_OCControl": "ОТ цепей ЗДЗ НН2",
+    "CBFPnn1_OCControl": "ОТ цепей УРОВ НН1",
+    "CBFPnn2_OCControl": "ОТ цепей УРОВ НН2"
+}

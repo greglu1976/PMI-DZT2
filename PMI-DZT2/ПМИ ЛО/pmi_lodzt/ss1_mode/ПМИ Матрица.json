@@ -1,0 +1,182 @@
+{
+  "Version": "1.0.0.0",
+  "DeviceModel": "ЮНИТ-М319-ДЗТ2-Р02с-х-К002-К002-К002-К002-К002-В021-В021-В021-В021-М090.9000-х-С01.00-1-1-ЮНИТ-ИЧМ-КУГР-х-х-х-х-1",
+  "SignalMappings": [
+    {
+      "ParameterName": "GAS_OCControl",
+      "DiscreteInputs": [
+        "8B9"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "TECH_OCControl",
+      "DiscreteInputs": [
+        "8B10"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "ARCnn1_OCControl",
+      "DiscreteInputs": [
+        "8B11"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "ARCnn2_OCControl",
+      "DiscreteInputs": [
+        "8B12"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CBFPnn1_OCControl",
+      "DiscreteInputs": [
+        "8B13"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CBFPnn2_OCControl",
+      "DiscreteInputs": [
+        "8B14"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CtlCirSwPos1",
+      "DiscreteInputs": [
+        "8B2"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CtlCirSwPos2",
+      "DiscreteInputs": [
+        "8B3"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CtlCirSwPos3",
+      "DiscreteInputs": [
+        "8B4"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "CtlCirSwPos4",
+      "DiscreteInputs": [
+        "8B5"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "TestBlockPos1",
+      "DiscreteInputs": [
+        "8B6"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "TestBlockPos2",
+      "DiscreteInputs": [
+        "8B7"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "TestBlockPos3",
+      "DiscreteInputs": [
+        "8B8"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_ControllerDisable",
+      "DiscreteInputs": [
+        "8B1"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DZT2_LVALH_1_CALH1_Alarm",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K8"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_CtlCir",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K1"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_TestBlock",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K2"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_OCSign",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K3"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_GAS_OCControlSignAssem",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K4"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_TECH_OCControlSignAssem",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K5"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_OCnnSign",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K6"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_SignAssembly_1_ExtSignGen",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K7"
+      ]
+    }
+  ]
+}
