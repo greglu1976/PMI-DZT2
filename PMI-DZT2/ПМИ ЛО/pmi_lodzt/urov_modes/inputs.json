@@ -1,0 +1,10 @@
+{
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_TPBRF": "ОВ УРОВ ВН",
+    "DI_HVTCBOFF": "ОВ ЛО ВН",
+    "OpExtOfCoolSys": "Внешнее отключение от СО",        
+    "ExternalRBRFStart": "Пуск УРОВ внешний",
+    "IA": "IA",
+    "IB": "IB",
+    "IC": "IC"
+}

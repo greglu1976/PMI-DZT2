@@ -1,0 +1,142 @@
+{
+  "Version": "1.0.0.0",
+  "DeviceModel": "ЮНИТ-М319-ДЗТ2-Р02с-х-К002-К002-К002-К002-К002-В021-В021-В021-В021-М090.9000-х-С01.00-1-1-ЮНИТ-ИЧМ-КУГР-х-х-х-х-1",
+  "SignalMappings": [
+    {
+      "ParameterName": "OpExtOfCoolSys",
+      "DiscreteInputs": [
+        "8B4"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "ExternalRBRFStart",
+      "DiscreteInputs": [
+        "8B5"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_ControllerDisable",
+      "DiscreteInputs": [
+        "8B1"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_HVTCBOFF",
+      "DiscreteInputs": [
+        "8B3"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_TPBRF",
+      "DiscreteInputs": [
+        "8B2"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K1"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K2"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_DE_I",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K5"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_Str",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K4"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_OpEx",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K3"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_TPBRF_1_GENRBRF1_OpIn",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K6"
+      ]
+    },
+    {
+      "ParameterName": "TPRMOFFLVLGC_1_PTRC1_Op",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K2"
+      ]
+    },
+    {
+      "ParameterName": "TPRMOFFLVLGC_1_RBRE1_BlkOp",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K3"
+      ]
+    },
+    {
+      "ParameterName": "HVTCBOFF_1_HVCBPTRC1_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K7"
+      ]
+    },
+    {
+      "ParameterName": "HVTCBOFF_1_HVCBPTRC1_Op",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K8"
+      ]
+    },
+    {
+      "ParameterName": "HVTCBOFF_1_HVCBPTRC1_Tr",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K1"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_LVALH_1_CALH1_Alarm",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K4"
+      ]
+    }
+  ]
+}

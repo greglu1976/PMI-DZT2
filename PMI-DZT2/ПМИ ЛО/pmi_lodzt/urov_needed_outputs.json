@@ -1,14 +1,14 @@
 {
-    "vvod_rbrf1_tpbrf": "УРОВ: Ввод",
-    "oper_vyvod_rbrf1_tpbrf": "УРОВ: Оперативный вывод",
-    "srab_rbrf1_tpbrf": "УРОВ: Срабатывание",
-    "pusk_rbrf1_tpbrf": "УРОВ: Пуск",
-    "io_rbrf1_tpbrf": "УРОВ: ИО Iмакс",
-    "srab_na_sebya_rbrf1_tpbrf": "УРОВ: Сраб «на себя»",
-    "vvod_hvcbptrc1_hvtcboff": "ЛО ВН / ЛО: Ввод",
-    "otkl_hvcbptrc1_hvtcboff": "ЛО ВН / ЛО: Отключение",
-    "otkl_avar_hvcbptrc1_hvtcboff": "ЛО ВН / ЛО: Отключить аварийно",
-    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
-    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
-    "pusk_lvalh": "ПС: Пуск"
+    "DZT2_TPBRF_1_GENRBRF1_FuncEnabled": "УРОВ: Ввод",
+    "DZT2_TPBRF_1_GENRBRF1_FuncOperDisabled": "УРОВ: Оперативный вывод",
+    "DZT2_TPBRF_1_GENRBRF1_OpEx": "УРОВ: Срабатывание",
+    "DZT2_TPBRF_1_GENRBRF1_Str": "УРОВ: Пуск",
+    "DZT2_TPBRF_1_GENRBRF1_DE_I": "УРОВ: ИО Iмакс",
+    "DZT2_TPBRF_1_GENRBRF1_OpIn": "УРОВ: Сраб «на себя»",
+    "HVTCBOFF_1_HVCBPTRC1_FuncEnabled": "ЛО ВН / ЛО: Ввод",
+    "HVTCBOFF_1_HVCBPTRC1_Op": "ЛО ВН / ЛО: Отключение",
+    "HVTCBOFF_1_HVCBPTRC1_Tr": "ЛО ВН / ЛО: Отключить аварийно",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
 }

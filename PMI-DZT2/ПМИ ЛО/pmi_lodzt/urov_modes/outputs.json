@@ -1,0 +1,14 @@
+{
+    "DZT2_TPBRF_1_GENRBRF1_FuncEnabled": "УРОВ: Ввод",
+    "DZT2_TPBRF_1_GENRBRF1_FuncOperDisabled": "УРОВ: Оперативный вывод",
+    "DZT2_TPBRF_1_GENRBRF1_OpEx": "УРОВ: Срабатывание",
+    "DZT2_TPBRF_1_GENRBRF1_Str": "УРОВ: Пуск",
+    "DZT2_TPBRF_1_GENRBRF1_DE_I": "УРОВ: ИО Iмакс",
+    "DZT2_TPBRF_1_GENRBRF1_OpIn": "УРОВ: Сраб «на себя»",
+    "HVTCBOFF_1_HVCBPTRC1_FuncEnabled": "ЛО ВН / ЛО: Ввод",
+    "HVTCBOFF_1_HVCBPTRC1_Op": "ЛО ВН / ЛО: Отключение",
+    "HVTCBOFF_1_HVCBPTRC1_Tr": "ЛО ВН / ЛО: Отключить аварийно",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}

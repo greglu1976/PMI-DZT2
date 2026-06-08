@@ -1,9 +1,9 @@
 {
-    "VYVOD": "Вывод терминала",
-    "OV_rbrf1_tpbrf": "ОВ УРОВ ВН",
-    "OV_hvcbptrc1_hvtcboff": "ОВ ЛО ВН",
-    "vnesh_otkl_ot_so": "Внешнее отключение от СО",        
-    "pusk_urov_vnesh": "Пуск УРОВ внешний",
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_TPBRF": "ОВ УРОВ ВН",
+    "DI_HVTCBOFF": "ОВ ЛО ВН",
+    "OpExtOfCoolSys": "Внешнее отключение от СО",        
+    "ExternalRBRFStart": "Пуск УРОВ внешний",
     "IA": "IA",
     "IB": "IB",
     "IC": "IC"
