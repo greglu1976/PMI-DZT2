@@ -1,15 +1,15 @@
 {
-    "vvod_lvptoc1_strpalc": "РТПО НН1: Ввод",
-    "oper_vyvod_lvptoc1_strpalc": "РТПО НН1: Оперативный вывод",
-    "pusk_lvptoc1_strpalc": "РТПО НН1: Пуск",
-    "io_lvptoc1_strpalc": "РТПО НН1: ИО I",
-    "vvod_lvptoc2_strpalc": "РТПО НН2: Ввод",
-    "oper_vyvod_lvptoc2_strpalc": "РТПО НН2: Оперативный вывод",
-    "pusk_lvptoc2_strpalc": "РТПО НН2: Пуск",
-    "io_lvptoc2_strpalc": "РТПО НН2: ИО I",
-    "pusk_strpalc": "РТПО_общ: Пуск",
-    "vvod_strpalc": "РТПО_общ: Ввод",
-    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
-    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
-    "pusk_lvalh": "ПС: Пуск"
+    "STRTPALC_1_LVPTOC1_FuncEnabled": "РТПО НН1: Ввод",
+    "STRTPALC_1_LVPTOC1_FuncOperDisabled": "РТПО НН1: Оперативный вывод",
+    "STRTPALC_1_LVPTOC1_Str": "РТПО НН1: Пуск",
+    "STRTPALC_1_LVPTOC1_DE_I": "РТПО НН1: ИО I",
+    "STRTPALC_1_LVPTOC2_FuncEnabled": "РТПО НН2: Ввод",
+    "STRTPALC_1_LVPTOC2_FuncOperDisabled": "РТПО НН2: Оперативный вывод",
+    "STRTPALC_1_LVPTOC2_Str": "РТПО НН2: Пуск",
+    "STRTPALC_1_LVPTOC2_DE_I": "РТПО НН2: ИО I",
+    "STRTPALC_1_PTOC1_Str": "РТПО_общ: Пуск",
+    "STRTPALC_1_PTOC1_FuncEnabled": "РТПО_общ: Ввод",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
 }
