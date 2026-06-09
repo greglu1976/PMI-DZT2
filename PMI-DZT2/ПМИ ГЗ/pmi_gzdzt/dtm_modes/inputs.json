@@ -1,0 +1,10 @@
+{
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_APTTECHLGC": "ОВ ЛО ТЗ",
+    "DI_OILPTRC": "ОВ ЛО ДТм",
+    "DI_OILPTRC_Sign": "ДТм на сигн",
+    "OILTempEmerg": "Авар. t масла",
+    "OILTempHigh": "Повыш. t масла",
+    "OILIsolOp": "Сраб. КИ ДТм",
+    "Reset": "Сброс блок. ГЗ,ТЗ"
+}

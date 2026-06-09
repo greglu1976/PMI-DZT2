@@ -1,0 +1,13 @@
+{
+    "APTTECHLGC_1_OILPTRC1_FuncEnabled": "ЛО ДТм: Ввод",
+    "APTTECHLGC_1_OILPTRC1_FuncOperDisabled": "ЛО ДТм: Оперативный вывод",
+    "APTTECHLGC_1_OILPTRC1_OpOIL": "ЛО ДТм: Срабатывание",
+    "APTTECHLGC_1_OILPTRC1_OpOnSignal": "ЛО ДТм: Срабатывание сигн",
+    "APTTECHLGC_1_OILPTRC1_BlockOIL": "ЛО ДТм: Заблокировано",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_SignAssembly_1_TECHSign": "СС: ТЗ сигн",
+    "DZT2_SignAssembly_1_LowIsolTECH": "СС: Низ.изол. ТЗ",
+    "DZT2_SignAssembly_1_TECHBlock": "СС:ТЗ заблокирована",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}

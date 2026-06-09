@@ -1,10 +1,10 @@
 {
-    "VYVOD": "Вывод терминала",
-    "OV_tz": "ОВ ЛО ТЗ",
-    "OV_dtm": "ОВ ЛО ДТм",
-    "NaSign_dtm": "ДТм на сигн",
-    "srabKontOtkl_m": "Авар. t масла",
-    "srabKontSign_m": "Повыш. t масла",
-    "srabKI_m": "Сраб. КИ ДТм",
-    "Sbros": "Сброс блок. ГЗ,ТЗ"
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_APTTECHLGC": "ОВ ЛО ТЗ",
+    "DI_OILPTRC": "ОВ ЛО ДТм",
+    "DI_OILPTRC_Sign": "ДТм на сигн",
+    "OILTempEmerg": "Авар. t масла",
+    "OILTempHigh": "Повыш. t масла",
+    "OILIsolOp": "Сраб. КИ ДТм",
+    "Reset": "Сброс блок. ГЗ,ТЗ"
 }

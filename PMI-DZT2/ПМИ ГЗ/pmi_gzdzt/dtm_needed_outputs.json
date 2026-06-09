@@ -1,13 +1,13 @@
 {
-    "vvod_oilptrc1_apttechlgc": "ЛО ДТм: Ввод",
-    "oper_vyvod_oilptrc1_apttechlgc": "ЛО ДТм: Оперативный вывод",
-    "srab_oilptrc1_apttechlgc": "ЛО ДТм: Срабатывание",
-    "srabsign_oilptrc1_apttechlgc": "ЛО ДТм: Срабатывание сигн",
-    "zablok_oilptrc1_apttechlgc": "ЛО ДТм: Заблокировано",
-    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
-    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
-    "SS_tz_sign": "СС: ТЗ сигн",
-    "SS_tz_nizk_isol": "СС: Низ.изол. ТЗ",
-    "SS_tz_zablok": "СС:ТЗ заблокирована",
-    "pusk_lvalh": "ПС: Пуск"
+    "APTTECHLGC_1_OILPTRC1_FuncEnabled": "ЛО ДТм: Ввод",
+    "APTTECHLGC_1_OILPTRC1_FuncOperDisabled": "ЛО ДТм: Оперативный вывод",
+    "APTTECHLGC_1_OILPTRC1_OpOIL": "ЛО ДТм: Срабатывание",
+    "APTTECHLGC_1_OILPTRC1_OpOnSignal": "ЛО ДТм: Срабатывание сигн",
+    "APTTECHLGC_1_OILPTRC1_BlockOIL": "ЛО ДТм: Заблокировано",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_SignAssembly_1_TECHSign": "СС: ТЗ сигн",
+    "DZT2_SignAssembly_1_LowIsolTECH": "СС: Низ.изол. ТЗ",
+    "DZT2_SignAssembly_1_TECHBlock": "СС:ТЗ заблокирована",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
 }
