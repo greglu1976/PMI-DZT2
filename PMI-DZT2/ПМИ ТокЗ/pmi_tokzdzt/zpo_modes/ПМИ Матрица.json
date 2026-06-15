@@ -1,0 +1,118 @@
+{
+  "Version": "1.0.0.0",
+  "DeviceModel": "ЮНИТ-М319-ДЗТ2-Р02с-х-К002-К002-К002-К002-К002-В021-В021-В021-В021-М090.9000-х-С01.00-1-1-ЮНИТ-ИЧМ-КУГР-х-х-х-х-1",
+  "SignalMappings": [
+    {
+      "ParameterName": "FailCoolSys",
+      "DiscreteInputs": [
+        "8B4"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "AlcOilTmp",
+      "DiscreteInputs": [
+        "8B5"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_ControllerDisable",
+      "DiscreteInputs": [
+        "8B1"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_EQPALC",
+      "DiscreteInputs": [
+        "8B2"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "DI_EQPALC_Sign",
+      "DiscreteInputs": [
+        "8B3"
+      ],
+      "DigitalInputs": [],
+      "OutputRelays": []
+    },
+    {
+      "ParameterName": "EQPALC_1_PALC1_FuncEnabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K2"
+      ]
+    },
+    {
+      "ParameterName": "EQPALC_1_PALC1_FuncOperDisabled",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K3"
+      ]
+    },
+    {
+      "ParameterName": "EQPALC_1_PALC1_Str",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K4"
+      ]
+    },
+    {
+      "ParameterName": "EQPALC_1_PALC1_OpOnSignal",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K5"
+      ]
+    },
+    {
+      "ParameterName": "EQPALC_1_PALC1_Op",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K6"
+      ]
+    },
+    {
+      "ParameterName": "TPALC_1_PTOC1_Str",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K1"
+      ]
+    },
+    {
+      "ParameterName": "TPRMOFFLVLGC_1_PTRC1_Op",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K7"
+      ]
+    },
+    {
+      "ParameterName": "TPRMOFFLVLGC_1_RBRE1_BlkOp",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "3K8"
+      ]
+    },
+    {
+      "ParameterName": "DZT2_LVALH_1_CALH1_Alarm",
+      "DiscreteInputs": [],
+      "DigitalInputs": [],
+      "OutputRelays": [
+        "4K1"
+      ]
+    }
+  ]
+}

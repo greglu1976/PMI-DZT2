@@ -1,0 +1,10 @@
+{
+    "IA": "IA",
+    "IB": "IB",
+    "IC": "IC",
+    "DI_ControllerDisable": "Вывод терминала",
+    "DI_EQPALC": "ОВ ЗПО",
+    "DI_EQPALC_Sign": "ЗПО на сигн",
+    "FailCoolSys": "Отказ сист.охл.",
+    "AlcOilTmp": "t масла ЗПО"
+}

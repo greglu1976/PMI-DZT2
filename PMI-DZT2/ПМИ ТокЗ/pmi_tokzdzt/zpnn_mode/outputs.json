@@ -1,0 +1,18 @@
+{
+    "TOVCTOC_1_PTOC1_FuncEnabled": "ЗП НН1: Ввод",
+    "TOVCTOC_1_PTOC1_FuncOperDisabled": "ЗП НН1: Оперативный вывод",
+    "TOVCTOC_1_PTOC1_Str": "ЗП НН1: Пуск",
+    "TOVCTOC_1_PTOC1_DE_I": "ЗП НН1: ИО I",
+    "TOVCTOC_1_PTOC1_Op": "ЗП НН1: Срабатывание",
+    "TOVCTOC_1_PTOC1_OpOnTrip": "ЗП НН1: Сраб. на откл",
+    "TOVCTOC_1_PTOC2_FuncEnabled": "ЗП НН2: Ввод",
+    "TOVCTOC_1_PTOC2_FuncOperDisabled": "ЗП НН2: Оперативный вывод",
+    "TOVCTOC_1_PTOC2_Str": "ЗП НН2: Пуск",
+    "TOVCTOC_1_PTOC2_DE_I": "ЗП НН2: ИО I",
+    "TOVCTOC_1_PTOC2_Op": "ЗП НН2: Срабатывание",
+    "TOVCTOC_1_PTOC2_OpOnTrip": "ЗП НН2: Сраб. на откл",
+    "TOVCTOC_1_TOVCTOC_Op": "ЗП: Срабатывание",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}

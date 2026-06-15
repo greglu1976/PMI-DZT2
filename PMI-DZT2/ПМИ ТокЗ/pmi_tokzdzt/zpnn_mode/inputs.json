@@ -1,0 +1,10 @@
+{
+    "IA1": "IA1",
+    "IB1": "IB1",
+    "IC1": "IC1",
+	"DI_ControllerDisable": "Вывод терминала",
+    "DI_TOVCTOC": "ОВ ЗП",
+    "DI_TOVCTOC_LVPTOC1": "ОВ ЗП НН1",
+    "DI_TOVCTOC_LVPTOC2": "ОВ ЗП НН2",
+    "DI_TOVCTOC_Sign": "ЗП на откл"
+}

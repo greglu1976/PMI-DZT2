@@ -1,11 +1,11 @@
 {
-    "pusk_tpalc": "ТО ЗПО_общ: Пуск",
-    "vvod_lvoileqpalc_eqpalc": "ЗПО: Ввод",
-    "oper_vyvod_lvoileqpalc_eqpalc": "ЗПО: Оперативный вывод",
-    "pusk_lvoileqpalc_eqpalc": "ЗПО: Пуск",
-    "srabsign_lvoileqpalc_eqpalc": "ЗПО: Срабатывание сигн",
-    "srab_lvoileqpalc_eqpalc": "ЗПО: Срабатывание",
-    "srab_ptrc1_tprmofflvlgc": "ЛО Т / ЛО: Срабатывание",
-    "zapret_rbre1_tprmofflvlgc": "ЛО Т / ЗАПВ: Запрет АПВ",
-    "pusk_lvalh": "ПС: Пуск"
+    "TPALC_1_PTOC1_Str": "ТО ЗПО_общ: Пуск",
+    "EQPALC_1_PALC1_FuncEnabled": "ЗПО: Ввод",
+    "EQPALC_1_PALC1_FuncOperDisabled": "ЗПО: Оперативный вывод",
+    "EQPALC_1_PALC1_Str": "ЗПО: Пуск",
+    "EQPALC_1_PALC1_OpOnSignal": "ЗПО: Срабатывание сигн",
+    "EQPALC_1_PALC1_Op": "ЗПО: Срабатывание",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
 }

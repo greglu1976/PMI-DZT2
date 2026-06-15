@@ -1,0 +1,11 @@
+{
+    "TPALC_1_HVPTOC1_FuncEnabled": "ТО ЗПО ВН: Ввод",
+    "TPALC_1_HVPTOC1_FuncOperDisabled": "ТО ЗПО ВН: Оперативный вывод",
+    "TPALC_1_HVPTOC1_Str": "ТО ЗПО ВН: Пуск",
+    "TPALC_1_HVPTOC1_DE_I": "ТО ЗПО ВН: ИО I",
+    "TPALC_1_PTOC1_Str": "ТО ЗПО_общ: Пуск",
+    "TPALC_1_PTOC1_FuncEnabled": "ТО ЗПО_общ: Ввод",
+    "TPRMOFFLVLGC_1_PTRC1_Op": "ЛО Т / ЛО: Срабатывание",
+    "TPRMOFFLVLGC_1_RBRE1_BlkOp": "ЛО Т / ЗАПВ: Запрет АПВ",
+    "DZT2_LVALH_1_CALH1_Alarm": "ПС: Пуск"
+}
